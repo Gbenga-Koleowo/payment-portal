@@ -1,0 +1,29 @@
+
+
+.body{
+    background:linear-gradient(
+    to right,
+    teal 40%,
+    paleturquoise 100%);
+}
+
+.header1{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    margin-top: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 5%;
+    padding-left: 5%;
+    border-radius:5%;
+    background-color: gainsboro;
+}
+
+.btn{
+    margin-left: 40%;
+} 
+
+
